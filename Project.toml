@@ -3,6 +3,10 @@ uuid = "c0490ba9-72e4-4822-a797-f5e70304bf95"
 authors = ["Frank Urbach"]
 version = "0.1.0"
 
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+TypeDBClient = "7ffdda62-db04-4838-9798-febd00f3125c"
+
 [compat]
 julia = "1.6"
 
