@@ -8,6 +8,7 @@ IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 TypeDBClient = "7ffdda62-db04-4838-9798-febd00f3125c"
 
 [compat]
+IJulia = "1"
 julia = "1.6"
 
 [extras]
